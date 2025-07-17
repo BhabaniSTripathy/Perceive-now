@@ -1,0 +1,6 @@
+pandas
+duckdb
+sentence-transformers
+faiss-cpu
+fastapi
+uvicorn
